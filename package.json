@@ -1,44 +1,44 @@
 {
-  "name": "react-native-border-zoom-view",
-  "description": "A react-native zoom view with double tap zoom support",
-  "version": "1.0.4",
-  "main": "index.js",
-  "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start",
-    "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com:BytePace/ZoomView.git"
-  },
-  "keywords": [
-    "react-native",
-    "react component",
-    "react native component",
-    "react",
-    "react native",
-    "mobile",
-    "ios",
-    "android",
-    "ui",
-    "zoom",
-    "double tap",
-    "pane"
-  ],
-  "dependencies": {
-    "react-native-easy-gestures": "^2.1.2"
-  },
-  "devDependencies": {
-    "@babel/core": "7.4.3",
-    "@babel/runtime": "7.4.3",
-    "babel-jest": "24.7.1",
-    "jest": "24.7.1",
-    "metro-react-native-babel-preset": "0.53.1",
-    "react-test-renderer": "16.8.3"
-  },
-  "author": "Viktor Kinko",
-  "license": "MIT",
-  "jest": {
-    "preset": "react-native"
-  }
+	"name": "react-native-border-zoom-view",
+	"description": "A react-native zoom view with double tap zoom support",
+	"version": "1.1.0",
+	"main": "index.js",
+	"scripts": {
+		"start": "node node_modules/react-native/local-cli/cli.js start",
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com:BytePace/ZoomView.git"
+	},
+	"keywords": [
+		"react-native",
+		"react component",
+		"react native component",
+		"react",
+		"react native",
+		"mobile",
+		"ios",
+		"android",
+		"ui",
+		"zoom",
+		"double tap",
+		"pane"
+	],
+	"dependencies": {
+		"react-native-easy-gestures": "^2.1.2"
+	},
+	"devDependencies": {
+		"@babel/core": "7.4.3",
+		"@babel/runtime": "7.4.3",
+		"babel-jest": "24.7.1",
+		"jest": "^28.0.3",
+		"metro-react-native-babel-preset": "0.53.1",
+		"react-test-renderer": "16.8.3"
+	},
+	"author": "Viktor Kinko",
+	"license": "MIT",
+	"jest": {
+		"preset": "react-native"
+	}
 }
