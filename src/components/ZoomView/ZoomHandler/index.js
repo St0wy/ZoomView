@@ -43,7 +43,7 @@ class ZoomHandler extends React.Component {
         }
     }
 
-    componentWillReceiveProps() {
+    UNSAFE_componentWillReceiveProps() {
         this.setDefault = true;
         if (this.paneLayout) this.onOrientationChange();
     }
