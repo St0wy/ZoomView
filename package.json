@@ -30,7 +30,7 @@
 	},
 	"devDependencies": {
 		"@babel/core": "7.4.3",
-		"@babel/runtime": "7.4.3",
+		"@babel/runtime": "7.18.9",
 		"babel-jest": "24.7.1",
 		"jest": "^28.0.3",
 		"metro-react-native-babel-preset": "0.53.1",
